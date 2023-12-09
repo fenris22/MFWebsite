@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: black !important;
+}
+header {
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: monospace;
+    padding: 20px;
+}
+p {
+    color: white;
+    text-align: center;
+    font-size: medium;
+    font-family: monospace;
+    padding: 20px;
+}
