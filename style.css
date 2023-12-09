@@ -3,18 +3,32 @@ html {
 }
 body {
     background-color: black !important;
+    color: white;
+    font-family: monospace;
 }
 header {
     color: white;
     text-align: center;
     font-size: xx-large;
-    font-family: monospace;
     padding: 20px;
 }
 p {
     color: white;
     text-align: center;
     font-size: medium;
-    font-family: monospace;
     padding: 20px;
+}
+#menu {
+    text-align: center;
+    font-size: large;
+    padding: 20px;
+}
+td {
+    border: 1px solid;
+    font-size: medium;
+    padding: 20px;
+}
+table {
+    width: 100%;
+    border: 1px solid;
 }
